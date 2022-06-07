@@ -2,7 +2,7 @@
 Script para auto recon, baseado no Smart-Recon da Desec Security, porém com algumas otimizações e fácil setup.
 
 ---
-<br>
+
 ### Setup
 
 ```sh
