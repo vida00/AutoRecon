@@ -11,5 +11,5 @@ Script para auto recon, baseado no Smart-Recon da Desec Security, porém com alg
 > mkdir data-es && mkdir data && sudo chmod 777 -R data-es data
 > docker build . && docker-compose up -d && sudo ./optimize.sh
 
-Vídeo ensinando a usar o programa: 
+Vídeo ensinando a usar o programa: https://youtu.be/ixjQ0jMJcIU
 ```
